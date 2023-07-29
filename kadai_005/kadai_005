@@ -1,1 +1,6 @@
+length_a = 10
+length_b = 20
+height = 5
 
+area = ((length_a + length_b)/2)*height
+print(f"{area}cm²")
